@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>node-board-application</artifactId>
+        <groupId>io.bitcode</groupId>
+        <version>1.0.0</version>
+        <relativePath>../node-board-application/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>node-board-utilities</artifactId>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>io.bitcode</groupId>
+            <artifactId>node-board-domain</artifactId>
+        </dependency>
+    </dependencies>
+</project>

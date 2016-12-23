@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-repositories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-board-utilities" charset="UTF-8" />
+  </component>
+</project>

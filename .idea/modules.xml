@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/node-board-application/node-board-application.iml" filepath="$PROJECT_DIR$/node-board-application/node-board-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-domain/node-board-domain.iml" filepath="$PROJECT_DIR$/node-board-domain/node-board-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-frontend/node-board-frontend.iml" filepath="$PROJECT_DIR$/node-board-frontend/node-board-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-repositories/node-board-repositories.iml" filepath="$PROJECT_DIR$/node-board-repositories/node-board-repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-rest/node-board-rest.iml" filepath="$PROJECT_DIR$/node-board-rest/node-board-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-services/node-board-services.iml" filepath="$PROJECT_DIR$/node-board-services/node-board-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-board-utilities/node-board-utilities.iml" filepath="$PROJECT_DIR$/node-board-utilities/node-board-utilities.iml" />
+    </modules>
+  </component>
+</project>
